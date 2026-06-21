@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.710d0e0f.css",
-    "main.js": "/static/js/main.93e7263e.js",
-    "index.html": "/index.html",
-    "main.710d0e0f.css.map": "/static/css/main.710d0e0f.css.map",
-    "main.93e7263e.js.map": "/static/js/main.93e7263e.js.map"
+    "main.css": "/Ethos-Health/brightstar-command-center.git/static/css/main.710d0e0f.css",
+    "main.js": "/Ethos-Health/brightstar-command-center.git/static/js/main.93e7263e.js",
+    "index.html": "/Ethos-Health/brightstar-command-center.git/index.html",
+    "main.710d0e0f.css.map": "/Ethos-Health/brightstar-command-center.git/static/css/main.710d0e0f.css.map",
+    "main.93e7263e.js.map": "/Ethos-Health/brightstar-command-center.git/static/js/main.93e7263e.js.map"
   },
   "entrypoints": [
     "static/css/main.710d0e0f.css",
