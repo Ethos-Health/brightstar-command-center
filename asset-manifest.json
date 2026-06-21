@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/brightstar-command-center/static/css/main.710d0e0f.css",
-    "main.js": "/brightstar-command-center/static/js/main.93e7263e.js",
+    "main.js": "/brightstar-command-center/static/js/main.c815969c.js",
     "index.html": "/brightstar-command-center/index.html",
     "main.710d0e0f.css.map": "/brightstar-command-center/static/css/main.710d0e0f.css.map",
-    "main.93e7263e.js.map": "/brightstar-command-center/static/js/main.93e7263e.js.map"
+    "main.c815969c.js.map": "/brightstar-command-center/static/js/main.c815969c.js.map"
   },
   "entrypoints": [
     "static/css/main.710d0e0f.css",
-    "static/js/main.93e7263e.js"
+    "static/js/main.c815969c.js"
   ]
 }
